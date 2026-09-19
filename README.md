@@ -119,4 +119,4 @@ This program can move the pointer and send mouse input to any active application
 
 ## License
 
-No license file is currently included in this project.
+This project is licensed under the [MIT License](LICENSE). See the `LICENSE` file for the full terms.
