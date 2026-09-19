@@ -1,0 +1,19 @@
+{
+    "CONF_THRESHOLD" : 0.3,
+    "FRAME_WIDTH" : 1280,
+    "FRAME_HEIGHT" : 720,
+    "TOUCH_THRESHOLD" : 25,
+
+    "SENSITIVITY" : 10.8,
+    "DEADZONE_RADIUS" : 10.0,
+    "SMOOTHING_FACTOR" : 0.05,
+
+    "SCROLL_SENSITIVITY" : 0.5,
+    "SCROLL_DEADZONE" : 8.0,
+
+    "CLICK_COOLDOWN" : 0.35,
+    "HOLD_COOLDOWN" : 0.60,
+
+    "CAMERA_ID": 0,
+    "HANDMARKER_PATH":"hand_landmarker.task"
+}
